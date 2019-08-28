@@ -1,4 +1,12 @@
-# Take-ME: One man’s garbage is another man’s treasure!
+# TakeME: One man’s garbage is another man’s treasure!
+
+### Features:
+* Profile edit
+* Chat system
+* My TakeME - Personal user zone
+* Last uploaded items section
+* Favorite Items
+* More to come soon!
 
 ## Login/SignUp Form:
 
