@@ -4,15 +4,15 @@
 
 <img src="https://i.imgur.com/l8FWAde.png" width="700">
 
-## Clients Section:
+## Adding New Item:
 
 <img src="https://i.imgur.com/2ByWAiZ.png" width="700">
 
-## Clients Section:
+## Uploaded Items:
 
 <img src="https://i.imgur.com/3xBvxNz.png" width="700">
 
-## Clients Section:
+## Side NavBar With Features :
 
 <img src="https://i.imgur.com/QUbMmbq.png" width="700">
 
